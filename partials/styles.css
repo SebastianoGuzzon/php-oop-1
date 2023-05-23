@@ -1,0 +1,44 @@
+body{
+  background-color: black;
+}
+
+h1{
+  color: rebeccapurple
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.card {
+  width: 300px;
+  margin: 20px;
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.poster {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.title {
+  font-size: 18px;
+  margin-bottom: 5px;
+  color: white;
+}
+
+.genres {
+  font-size: 14px;
+  margin-bottom: 5px;
+  color: #888;
+}
+
+.duration {
+  font-size: 14px;
+  color: #888;
+}
