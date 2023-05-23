@@ -1,5 +1,4 @@
-<hr>
-<i class="fa fa-copyright" aria-hidden="true"></i>
+<p class="foot" style="color: white;">Footer</p>
 </body>
 
 </html>
