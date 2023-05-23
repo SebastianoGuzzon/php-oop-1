@@ -1,5 +1,5 @@
 <hr>
-<h3>Footer del sito</h3>
+<i class="fa fa-copyright" aria-hidden="true"></i>
 </body>
 
 </html>
